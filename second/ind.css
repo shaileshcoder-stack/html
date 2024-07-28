@@ -1,0 +1,17 @@
+body{
+    /* background-color: purple; */
+    padding: 50px;
+}
+.headers.ul {
+    color: blue;
+}
+.headers.ul.li {
+   font-size: 100px; 
+}
+.container{
+    width: 1000px;
+    border: 1px solid red;
+    margin: 0 auto;
+    text-align: center;
+
+}
