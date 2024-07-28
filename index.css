@@ -1,0 +1,20 @@
+body {
+    /* background-color: bisque; */
+    background: bisque url("./image/html-icon.jpg")repeat
+    
+}
+h1{
+    color: gray;
+    background-color: violet;
+    border: 1px solid gray;
+    padding: 10px;
+ 
+
+}
+@media screen and (max-width:880px) and (min-width:375px){
+ h1 {
+    color: blue;
+ }
+
+    }
+
